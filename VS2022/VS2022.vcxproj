@@ -19,7 +19,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="E:\金鑫\LuaPreBuild\Debug\Test\PC4NW\Lib\JsonMin\JsonTest.c" />
+    <ClCompile Include="..\JsonTest.c" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
